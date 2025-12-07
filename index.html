@@ -1,0 +1,589 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MentalIntegrity.com — Mental Integrity & Neuro-Rights Framework</title>
+  <meta name="description" content="MentalIntegrity.com — descriptive .com domain for the emerging right to mental integrity in the age of neurotechnology and AI. Neutral banner for frameworks, observatories, charters and indices on mental integrity, neuro-rights and protection of the mind." />
+
+  <!-- Canonical & hreflang -->
+  <link rel="canonical" href="https://www.mentalintegrity.com/" />
+  <link rel="alternate" href="https://www.mentalintegrity.com/" hreflang="fr" />
+  <link rel="alternate" href="https://www.mentalintegrity.com/" hreflang="en" />
+  <link rel="alternate" href="https://www.mentalintegrity.com/" hreflang="x-default" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:title" content="MentalIntegrity.com — Mental Integrity & Neuro-Rights Framework" />
+  <meta property="og:description" content="Descriptive .com / .org domain pair for the emerging right to mental integrity, at the intersection of neurotechnology, AI-driven influence and fundamental rights. Neutral banner for observatories, frameworks, alliances and indices." />
+  <meta property="og:url" content="https://www.mentalintegrity.com/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://www.mentalintegrity.com/og.jpg" />
+  <meta property="og:image:alt" content="MentalIntegrity.com — descriptive digital asset for mental integrity & neuro-rights" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://www.mentalintegrity.com/og.jpg" />
+
+  <!-- Icons & preload -->
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="preload" as="image" href="/logo-mentalintegrity.png" imagesizes="260px" />
+
+  <!-- Structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "MentalIntegrity.com",
+    "url": "https://www.mentalintegrity.com/",
+    "inLanguage": ["en-GB","en-US","fr-FR"],
+    "description": "Descriptive digital asset for the emerging right to mental integrity in the age of neurotechnology and AI. Neutral banner for frameworks, observatories, alliances and indices on mental integrity and neuro-rights.",
+    "sameAs": ["https://www.linkedin.com/company/mentalintegrity"],
+    "potentialAction": {
+      "@type": "CommunicateAction",
+      "target": "mailto:contact@mentalintegrity.com"
+    }
+  }
+  </script>
+
+  <!-- Styles -->
+  <style>
+    :root{
+      --bg:#020815;
+      --card:#081120;
+      --muted:#8791b0;
+      --text:#e8eefc;
+      --accent:#7fd0ff;
+      --chip:#101b34;
+      --shadow:0 10px 30px rgba(0,0,0,.45);
+      --radius:18px;
+    }
+    *{box-sizing:border-box}
+    html,body{
+      margin:0;
+      padding:0;
+      background:var(--bg);
+      color:var(--text);
+      font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Inter,Ubuntu,Arial,sans-serif;
+      -webkit-font-smoothing:antialiased;
+    }
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{max-width:1040px;margin:0 auto;padding:28px}
+    .topbar{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      margin:8px 0 22px;
+      gap:16px;
+      flex-wrap:wrap;
+    }
+    .badge{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      background:var(--chip);
+      border:1px solid #1d2946;
+      border-radius:999px;
+      padding:6px 12px;
+      color:#c1ccec;
+      font-size:13px;
+    }
+    .badge-dot{
+      width:8px;
+      height:8px;
+      border-radius:999px;
+      background:radial-gradient(circle,#4ade80 0,#16a34a 55%,#052e16 100%);
+      box-shadow:0 0 0 6px rgba(34,197,94,.25);
+    }
+    .lang{
+      gap:10px;
+      display:flex;
+      align-items:center;
+    }
+    .lang button{
+      background:var(--chip);
+      color:var(--text);
+      border:1px solid #1d2946;
+      padding:7px 12px;
+      border-radius:999px;
+      cursor:pointer;
+      font-size:13px;
+    }
+    .lang button[aria-pressed="true"]{
+      background:var(--accent);
+      color:#020815;
+      border-color:transparent;
+    }
+    .card{
+      background:var(--card);
+      border:1px solid #1d2946;
+      border-radius:var(--radius);
+      padding:26px;
+      box-shadow:var(--shadow);
+    }
+    .hero h1{
+      margin:0 0 8px;
+      font-size:44px;
+      letter-spacing:.4px;
+    }
+    .cta{
+      display:flex;
+      gap:12px;
+      flex-wrap:wrap;
+      margin:18px 0 6px;
+    }
+    .btn{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      background:#122143;
+      color:#fff;
+      border:1px solid #21325b;
+      padding:11px 16px;
+      border-radius:999px;
+      cursor:pointer;
+      text-decoration:none;
+      font-size:14px;
+    }
+    .btn.primary{
+      background:var(--accent);
+      color:#020815;
+      border-color:transparent;
+    }
+    /* Concept Note button */
+    .btn.btn-concept{
+      background:transparent;
+      color:var(--accent);
+      border-radius:999px;
+      border:1px solid rgba(143,176,255,0.85);
+      box-shadow:0 0 0 1px rgba(2,8,21,0.9);
+      padding:9px 16px;
+      font-size:14px;
+    }
+    .btn.btn-concept:hover{
+      text-decoration:none;
+      background:rgba(143,176,255,0.06);
+    }
+    .btn.btn-concept .cn-icon{
+      width:14px;
+      height:14px;
+      border-radius:4px;
+      background:linear-gradient(135deg,#7fd0ff,#4a8dff);
+      display:inline-block;
+    }
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(12,1fr);
+      gap:18px;
+    }
+    .col-6{grid-column:span 6}
+    .col-12{grid-column:span 12}
+    .chip{
+      display:inline-block;
+      background:var(--chip);
+      border:1px solid #1d2946;
+      border-radius:999px;
+      padding:6px 10px;
+      font-size:13px;
+      color:#c1ccec;
+    }
+    .list{
+      display:grid;
+      gap:10px;
+      margin:8px 0;
+    }
+    .muted{color:var(--muted)}
+    .foot{opacity:.8;font-size:13px;margin-top:24px}
+    img.logo{
+      max-width:260px;
+      height:auto;
+      display:block;
+      margin:10px 0 10px;
+      opacity:.97;
+      border-radius:14px;
+    }
+    @media (max-width:860px){
+      .col-6{grid-column:span 12}
+      .hero h1{font-size:34px}
+    }
+    .ico{width:16px;height:16px;display:inline-block;vertical-align:middle}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <div class="badge">
+        <span class="badge-dot"></span>
+        <span>Descriptive digital assets available for acquisition</span>
+      </div>
+      <div class="lang">
+        <button id="btn-fr" aria-pressed="false">FR</button>
+        <button id="btn-en" aria-pressed="true">EN</button>
+      </div>
+    </div>
+
+    <!-- ================= HERO EN ================= -->
+    <section class="card hero" data-en>
+      <h1>MentalIntegrity.com</h1>
+      <img class="logo" src="/logo-mentalintegrity.png" alt="MentalIntegrity.com" loading="eager">
+      <p class="muted">
+        <b>Descriptive .com / .org domain pair</b> for the emerging right to
+        <b>mental integrity</b> in the age of <b>neurotechnology and AI</b>:
+        protection of the human mind against harmful interference with thoughts,
+        emotions, attention and decision-making.<br>
+        MentalIntegrity.com, paired with <b>MentalIntegrity.org</b>, is designed as a
+        <b>neutral, institution-grade banner</b> for future frameworks, observatories,
+        charters, indices and research initiatives on <b>mental integrity and
+        neuro-rights</b>.<br>
+        Intended for <b>UN agencies, regional organisations, regulators,
+        foundations, academic centres and major companies</b> that need a serious,
+        non-commercial label to structure governance work on neurotechnology and
+        AI-mediated influence.<br>
+        <b>Serious institutional enquiries only</b> (public bodies, international
+        organisations, foundations, research consortia, large regulated groups and
+        technology companies).
+      </p>
+      <div class="cta">
+        <a class="btn primary" href="mailto:contact@mentalintegrity.com?subject=MentalIntegrity.com%20-%20NDA%20%2F%20Offer">
+          Submit an offer / Request NDA
+        </a>
+        <a class="btn btn-concept" href="/concept-note.html">
+          <span class="cn-icon"></span>
+          Concept Note
+        </a>
+        <a class="btn" href="#value-en">Why this name?</a>
+      </div>
+      <p class="muted" style="margin-top:8px">
+        <b>Important notice:</b> MentalIntegrity.com and MentalIntegrity.org are
+        <b>descriptive semantic assets</b>. They do <b>not</b> provide medical,
+        psychological or therapeutic services, do not operate mental-health
+        applications or devices, and <b>do not</b> offer legal, regulatory, financial
+        or clinical advice. No diagnosis, counselling or emergency assistance is
+        provided via this site. Any future framework, observatory or alliance under
+        this banner would be entirely designed and operated by its legitimate
+        acquirer.
+      </p>
+    </section>
+
+    <!-- ================= VALUE EN ================= -->
+    <section id="value-en" class="card" style="margin-top:16px" data-en>
+      <div class="grid">
+        <div class="col-6">
+          <h3>Why MentalIntegrity.com / .org is valuable</h3>
+          <div class="list">
+            <div class="chip">
+              Clear, <b>rights-compatible language</b> for mental integrity, already
+              present in human-rights, constitutional and bioethics debates.
+            </div>
+            <div class="chip">
+              Neutral <b>.com / .org banner</b> suitable for frameworks, observatories,
+              charters, indices and research hubs — not a product brand.
+            </div>
+            <div class="chip">
+              Conceptual bridge between <b>neurotechnology, AI-driven influence and
+              fundamental rights</b> (mental privacy, cognitive liberty, psychological
+              continuity).
+            </div>
+            <div class="chip">
+              Single global reference name if “mental integrity” consolidates as a
+              standard category for neuro-rights and protection of the mind.
+            </div>
+            <div class="chip">
+              Durable anchor for <b>reports, dashboards, legal resources and public
+              communication</b> on neurotech and AI governance.
+            </div>
+          </div>
+        </div>
+        <div class="col-6">
+          <h3>Illustrative use cases</h3>
+          <div class="list">
+            <div class="chip">
+              “<b>Mental Integrity Observatory</b>” tracking laws, case law, incidents
+              and standards affecting mental integrity worldwide.
+            </div>
+            <div class="chip">
+              <b>Neuro-rights charter or framework</b> adopted by States, regulators,
+              industry and civil-society organisations.
+            </div>
+            <div class="chip">
+              <b>Ethics & governance flagship</b> site for a major neurotech or AI
+              actor, separating public-interest commitments from product branding.
+            </div>
+            <div class="chip">
+              <b>Research & litigation resource hub</b> on violations of mental
+              integrity, mental privacy and cognitive liberty.
+            </div>
+          </div>
+        </div>
+      </div>
+      <p class="muted">
+        This site does <b>not</b> sell devices, apps, software, ratings or
+        certification. It offers the <b>MentalIntegrity.com / MentalIntegrity.org</b>
+        domain pair as descriptive digital assets. Any frameworks, methodologies or
+        assurance schemes developed around this label would be designed and
+        validated independently by the acquirer, under its own governance and
+        applicable law.
+      </p>
+    </section>
+
+    <!-- ================= RELATED EN ================= -->
+    <section class="card" style="margin-top:16px" data-en>
+      <h3>Related assets (neurotechnology, neurorights & systemic risk)</h3>
+      <p class="muted">
+        Depending on its strategy, a future owner may articulate
+        <b>MentalIntegrity.com / .org</b> with other independent descriptive assets
+        in adjacent fields:
+      </p>
+      <div class="list">
+        <a class="chip" href="https://www.bciaccess.ai" target="_blank" rel="noopener">BCIaccess.ai</a>
+        <a class="chip" href="https://www.bcisafety.org" target="_blank" rel="noopener">BCIsafety.org</a>
+        <a class="chip" href="https://www.neuralaccess.ai" target="_blank" rel="noopener">NeuralAccess.ai</a>
+        <a class="chip" href="https://www.neuromax.ai" target="_blank" rel="noopener">Neuromax.ai</a>
+        <a class="chip" href="https://www.globalriskarchitecture.com" target="_blank" rel="noopener">GlobalRiskArchitecture.com</a>
+      </div>
+      <p class="muted">
+        These examples are <b>illustrative only</b>. This site offers for sale the
+        <b>MentalIntegrity.com</b> and <b>MentalIntegrity.org</b> domain names as
+        standalone assets; any potential bundle or coordination would be determined
+        solely by the acquirer.
+      </p>
+    </section>
+
+    <!-- ================= ACQUISITION EN ================= -->
+    <section class="card" style="margin-top:16px" data-en>
+      <h3>Acquisition (secure process)</h3>
+      <p class="muted">
+        A typical institutional flow: <b>NDA → strategic discussion → formal offer
+        → escrow → domain transfer</b>. The transaction is focused on the
+        <b>MentalIntegrity.com / MentalIntegrity.org</b> domain names as intangible
+        digital assets. No software, device, data infrastructure, methodology,
+        consultancy or service layer is attached unless explicitly agreed in a
+        separate contract.
+      </p>
+      <a class="btn primary" href="mailto:contact@mentalintegrity.com?subject=MentalIntegrity.com%20-%20NDA%20%2F%20Offer">
+        Direct contact: contact@mentalintegrity.com
+      </a>
+    </section>
+
+    <!-- ================= DOCS EN ================= -->
+    <section class="card" style="margin-top:16px" data-en>
+      <h3>Documents / Briefs</h3>
+      <p class="muted">
+        Detailed Acquisition Brief for <b>MentalIntegrity.com / MentalIntegrity.org</b>
+        (2025-11) available in <b>English and French</b> for Policy, Human Rights,
+        Neurotechnology, AI Governance, Risk and Strategy teams.
+      </p>
+      <div class="cta">
+        <a class="btn" href="/Acquisition%20Brief%20mentalintegrity-EN-202511.pdf" target="_blank" rel="noopener" type="application/pdf">
+          👁️ Open Brief (EN)
+        </a>
+        <a class="btn primary" href="/Acquisition%20Brief%20mentalintegrity-EN-202511.pdf" download="Acquisition-Brief-MentalIntegrity-EN-202511.pdf" type="application/pdf">
+          📥 Download (EN, PDF)
+        </a>
+        <a class="btn" href="/Acquisition%20Brief%20mentalintegrity-202511.pdf" target="_blank" rel="noopener" type="application/pdf">
+          👁️ Open Brief (FR)
+        </a>
+      </div>
+    </section>
+
+    <!-- ================= HERO FR ================= -->
+    <section class="card hero" data-fr hidden>
+      <h1>MentalIntegrity.com</h1>
+      <img class="logo" src="/logo-mentalintegrity.png" alt="MentalIntegrity.com" loading="eager">
+      <p class="muted">
+        Paire de noms de domaine <b>descriptifs en .com / .org</b> pour le
+        <b>droit émergent à l’intégrité mentale</b> à l’ère des
+        <b>neurotechnologies et de l’IA</b> : protection de la sphère mentale contre
+        les ingérences nocives dans les pensées, émotions, états attentionnels et
+        processus de décision.<br>
+        MentalIntegrity.com, associé à <b>MentalIntegrity.org</b>, est conçu comme
+        <b>bannière neutre et pérenne</b> pour de futurs cadres, observatoires,
+        chartes, indices ou initiatives de recherche consacrés à
+        <b>l’intégrité mentale et aux neurorights</b>.<br>
+        Destiné en priorité aux <b>agences onusiennes, organisations régionales,
+        autorités, fondations, centres de recherche et grands acteurs privés</b>
+        qui recherchent un label sérieux, non commercial, pour structurer leurs
+        travaux sur la gouvernance des neurotechnologies et de l’influence
+        algorithmique.<br>
+        <b>Offres institutionnelles uniquement</b> (organisations publiques,
+        internationales, fondations, alliances, grands groupes régulés).
+      </p>
+      <div class="cta">
+        <a class="btn primary" href="mailto:contact@mentalintegrity.com?subject=MentalIntegrity.com%20-%20NDA%20%2F%20Proposition">
+          Proposer une offre / Demander un NDA
+        </a>
+        <a class="btn btn-concept" href="/concept-note.html">
+          <span class="cn-icon"></span>
+          Concept Note (EN)
+        </a>
+        <a class="btn" href="#value-fr">Pourquoi ce nom ?</a>
+      </div>
+      <p class="muted" style="margin-top:8px">
+        <b>Nota important :</b> MentalIntegrity.com et MentalIntegrity.org sont des
+        <b>actifs sémantiques descriptifs</b>. Ils ne fournissent <b>aucun service
+        médical, psychologique ou thérapeutique</b>, n’opèrent aucun dispositif ou
+        application de santé mentale, et ne délivrent <b>aucun conseil juridique,
+        réglementaire, financier ou clinique</b>. Aucun diagnostic, accompagnement ou
+        service d’urgence n’est proposé via ce site. Tout futur cadre ou observatoire
+        sous cette bannière serait intégralement conçu et opéré par son acquéreur
+        légitime.
+      </p>
+    </section>
+
+    <!-- ================= VALUE FR ================= -->
+    <section id="value-fr" class="card" style="margin-top:16px" data-fr hidden>
+      <div class="grid">
+        <div class="col-6">
+          <h3>Pourquoi MentalIntegrity.com / .org a de la valeur</h3>
+          <div class="list">
+            <div class="chip">
+              Expression <b>juridiquement sérieuse</b> déjà présente dans les débats
+              en droits de l’homme, droit constitutionnel et bioéthique.
+            </div>
+            <div class="chip">
+              <b>Bannière neutre .com / .org</b> adaptée à un cadre, un observatoire,
+              une charte, des indices ou un hub de recherche – distincte de toute
+              marque commerciale.
+            </div>
+            <div class="chip">
+              Pont conceptuel entre <b>neurotechnologies, influence de l’IA et droits
+              fondamentaux</b> (vie mentale privée, liberté cognitive, continuité
+              psychologique).
+            </div>
+            <div class="chip">
+              Référence unique si la notion d’« intégrité mentale » s’impose comme
+              catégorie standard des neurorights et de la protection de l’esprit.
+            </div>
+            <div class="chip">
+              Ancrage durable pour <b>rapports, tableaux de bord, documents
+              juridiques et communication publique</b> sur la gouvernance des
+              neurotechnologies et de l’IA.
+            </div>
+          </div>
+        </div>
+        <div class="col-6">
+          <h3>Exemples de cas d’usage</h3>
+          <div class="list">
+            <div class="chip">
+              « <b>Observatoire mondial de l’intégrité mentale</b> » suivant lois,
+              jurisprudence, incidents et standards liés à l’intégrité mentale.
+            </div>
+            <div class="chip">
+              <b>Charte ou cadre de neurorights</b> adopté par des États, régulateurs,
+              industriels et organisations de la société civile.
+            </div>
+            <div class="chip">
+              <b>Vitrine de gouvernance</b> pour un grand acteur neurotech ou IA,
+              séparée de ses marques produits.
+            </div>
+            <div class="chip">
+              <b>Ressource de recherche et de contentieux stratégique</b> sur les
+              atteintes à l’intégrité mentale, à la vie mentale privée et à la liberté
+              cognitive.
+            </div>
+          </div>
+        </div>
+      </div>
+      <p class="muted">
+        Ce site ne vend <b>ni dispositifs, ni applications, ni logiciels, ni notation ou
+        certification</b>. Il propose la paire <b>MentalIntegrity.com /
+        MentalIntegrity.org</b> en tant qu’actifs numériques descriptifs. Toute
+        méthodologie, cadre ou dispositif d’assurance développé autour de cette
+        dénomination relèvera intégralement de l’acquéreur, sous sa seule
+        responsabilité et dans le respect des lois applicables.
+      </p>
+    </section>
+
+    <!-- ================= AUTRES ACTIFS FR ================= -->
+    <section class="card" style="margin-top:16px" data-fr hidden>
+      <h3>Actifs associés (neurotechnologies, neurorights & risques systémiques)</h3>
+      <p class="muted">
+        Selon sa stratégie, un acquéreur pourra articuler
+        <b>MentalIntegrity.com / .org</b> avec d’autres actifs descriptifs
+        indépendants du même univers :
+      </p>
+      <div class="list">
+        <a class="chip" href="https://www.bciaccess.ai" target="_blank" rel="noopener">BCIaccess.ai</a>
+        <a class="chip" href="https://www.bcisafety.org" target="_blank" rel="noopener">BCIsafety.org</a>
+        <a class="chip" href="https://www.neuralaccess.ai" target="_blank" rel="noopener">NeuralAccess.ai</a>
+        <a class="chip" href="https://www.neuromax.ai" target="_blank" rel="noopener">Neuromax.ai</a>
+        <a class="chip" href="https://www.globalriskarchitecture.com" target="_blank" rel="noopener">GlobalRiskArchitecture.com</a>
+      </div>
+      <p class="muted">
+        Ces exemples sont fournis à <b>titre illustratif</b>. Sur ce site, seuls les
+        noms de domaine <b>MentalIntegrity.com</b> et <b>MentalIntegrity.org</b> sont
+        proposés à l’acquisition ; toute logique de bundle ou d’architecture reste à
+        la discrétion de l’acquéreur.
+      </p>
+    </section>
+
+    <!-- ================= ACQUISITION FR ================= -->
+    <section class="card" style="margin-top:16px" data-fr hidden>
+      <h3>Acquisition (processus sécurisé)</h3>
+      <p class="muted">
+        Processus type : <b>NDA → échanges stratégiques → offre formelle → escrow
+        → transfert du domaine</b>. La transaction porte sur les noms de domaine
+        <b>MentalIntegrity.com / MentalIntegrity.org</b> en tant qu’actifs numériques
+        incorporels. Aucun logiciel, dispositif, infrastructure de données,
+        méthodologie, conseil ou service n’est inclus, sauf accord spécifique séparé.
+      </p>
+      <a class="btn primary" href="mailto:contact@mentalintegrity.com?subject=MentalIntegrity.com%20-%20NDA%20%2F%20Proposition">
+        Contact direct : contact@mentalintegrity.com
+      </a>
+    </section>
+
+    <!-- ================= DOCS FR ================= -->
+    <section class="card" style="margin-top:16px" data-fr hidden>
+      <h3>Documents / Briefs</h3>
+      <p class="muted">
+        Brief d’acquisition détaillé <b>MentalIntegrity.com / MentalIntegrity.org</b>
+        (2025-11) disponible en <b>anglais et en français</b> pour les équipes
+        Droits de l’homme, Numérique, Neurotechnologies, Gouvernance de l’IA,
+        Risques et Stratégie.
+      </p>
+      <div class="cta">
+        <a class="btn" href="/Acquisition%20Brief%20mentalintegrity-202511.pdf" target="_blank" rel="noopener" type="application/pdf">
+          👁️ Ouvrir le Brief (FR)
+        </a>
+        <a class="btn primary" href="/Acquisition%20Brief%20mentalintegrity-202511.pdf" download="Acquisition-Brief-MentalIntegrity-FR-202511.pdf" type="application/pdf">
+          📥 Télécharger (FR, PDF)
+        </a>
+        <a class="btn" href="/Acquisition%20Brief%20mentalintegrity-EN-202511.pdf" target="_blank" rel="noopener" type="application/pdf">
+          👁️ Open Brief (EN)
+        </a>
+      </div>
+    </section>
+
+    <p class="foot muted">
+      © MentalIntegrity.com — descriptive digital asset for the emerging right to
+      “mental integrity”. No affiliation with regulators, governments, international
+      organisations, companies, foundations or civil-society groups. Descriptive
+      use only. No medical, psychological, legal, regulatory, financial or
+      investment advice is provided via this site. — Contact:
+      <a href="mailto:contact@mentalintegrity.com">contact@mentalintegrity.com</a>
+    </p>
+  </div>
+
+  <script>
+    const frBtn = document.getElementById('btn-fr');
+    const enBtn = document.getElementById('btn-en');
+
+    function show(lang){
+      document.querySelectorAll('[data-fr]').forEach(n => n.hidden = (lang !== 'fr'));
+      document.querySelectorAll('[data-en]').forEach(n => n.hidden = (lang !== 'en'));
+      frBtn.setAttribute('aria-pressed', String(lang === 'fr'));
+      enBtn.setAttribute('aria-pressed', String(lang === 'en'));
+      document.documentElement.lang = lang;
+    }
+
+    frBtn.addEventListener('click', () => show('fr'));
+    enBtn.addEventListener('click', () => show('en'));
+
+    // EN default – FR only if user clicks
+    (function initLang(){
+      show('en');
+    })();
+  </script>
+</body>
+</html>
