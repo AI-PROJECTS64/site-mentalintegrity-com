@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Optional: adjust if a sitemap is added later
+Sitemap: https://www.mentalintegrity.com/sitemap.xml
