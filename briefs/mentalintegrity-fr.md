@@ -1,28 +1,26 @@
-# Brief d'acquisition - MentalIntegrity.com / MentalIntegrity.org
+# Brief d'acquisition - MentalIntegrity.com
 
 ## Vue d'ensemble de l'actif
 
-## Noms de domaine
+## Nom de domaine
 
-- MentalIntegrity.com : domaine principal.
-
-- MentalIntegrity.org : domaine complémentaire.
+- MentalIntegrity.com
 
 ## Nature et objet
 
-Paire de noms de domaine descriptifs proposée à l'acquisition. L'expression anglaise mental integrity correspond à l'intégrité mentale, expressément mentionnée à l'article 3 de la Charte des droits fondamentaux de l'Union européenne (référence 1).
+Nom de domaine descriptif proposé à l'acquisition. L'expression anglaise mental integrity correspond à l'intégrité mentale, expressément mentionnée à l'article 3 de la Charte des droits fondamentaux de l'Union européenne (référence 1).
 
 Ce brief présente l'actif, quatre références primaires et des usages documentaires possibles. Il ne décrit pas un programme institutionnel existant et ne contient aucune projection de marché, de revenus ou de valeur de revente.
 
 ## Périmètre de la cession
 
-La proposition porte sur les noms de domaine. Aucun droit sur un texte officiel, mandat public, marque, logiciel ou base de données de tiers n'est inclus. Le périmètre contractuel précis reste à convenir.
+La proposition porte sur le nom de domaine. Aucun droit sur un texte officiel, mandat public, marque, logiciel ou base de données de tiers n'est inclus. Le périmètre contractuel précis reste à convenir.
 
 ## Indépendance
 
-Actifs détenus à titre privé. Aucune affiliation, approbation ou intention d'acquisition de l'Union européenne, de l'UNESCO, du Conseil de l'Europe ou d'une autorité chilienne n'est revendiquée.
+Actif détenu à titre privé. Aucune affiliation, approbation ou intention d'acquisition de l'Union européenne, de l'UNESCO, du Conseil de l'Europe ou d'une autorité chilienne n'est revendiquée.
 
-Version révisée le 22 septembre 2026. Sources et liens : page 4.
+Version révisée le 2 octobre 2026. Sources et liens : page 4.
 
 
 ---
@@ -47,7 +45,7 @@ Daté de mars 2026, le rapport des rapporteurs restitue l'atelier du 18 novembre
 
 ## Lecture de ces références
 
-Ces documents ont des auteurs, des territoires et des effets différents. Ils ne prouvent ni une demande d'achat pour les domaines, ni un besoin d'adresse unique, ni une valeur financière. Aucune nouvelle obligation ne peut être déduite de leur seule juxtaposition.
+Ces documents ont des auteurs, des territoires et des effets différents. Ils ne prouvent ni une demande d'achat pour le domaine, ni un besoin d'adresse unique, ni une valeur financière. Aucune nouvelle obligation ne peut être déduite de leur seule juxtaposition.
 
 
 ---
@@ -68,10 +66,6 @@ Les propositions suivantes sont des choix éditoriaux possibles pour un acquére
 
 Le domaine pourrait présenter un projet de recherche ou une initiative éditoriale : objet, équipe responsable, travaux, sources et contact. Tout tel projet resterait à concevoir, financer et administrer par l'acquéreur.
 
-## Articulation .com / .org
-
-Les deux adresses peuvent être utilisées séparément ou l'une peut rediriger vers l'autre. Une extension .org ne confère pas, à elle seule, un statut associatif, public ou institutionnel. Le choix dépend de l'organisation effective du projet.
-
 ## 3. Limites et responsabilités
 
 - Aucun service médical, psychologique, thérapeutique ou de prise en charge d'urgence n'est proposé par cette cession.
@@ -87,7 +81,7 @@ L'acquéreur reste responsable de tout contenu, service, traitement de données 
 
 ## 4. Acquisition et contact
 
-Prise de contact, définition des domaines concernés et de l'usage envisagé ; accord de confidentialité si nécessaire ; offre écrite ; accord sur les conditions de cession ; séquestre tiers si convenu ; transfert via les registrars concernés.
+Prise de contact, définition de l'usage envisagé ; accord de confidentialité si nécessaire ; offre écrite ; accord sur les conditions de cession ; séquestre tiers si convenu ; transfert via les registrars concernés.
 
 Prix, calendrier, frais et modalités de transfert sont à négocier. Le brief ne présente aucune estimation de rendement, d'économie, de gain de temps, de demande future ou de prix de revente.
 
