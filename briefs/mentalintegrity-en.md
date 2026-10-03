@@ -1,28 +1,26 @@
-# Acquisition Brief - MentalIntegrity.com / MentalIntegrity.org
+# Acquisition Brief - MentalIntegrity.com
 
 ## Asset overview
 
-## Domain names
+## Domain name
 
-- MentalIntegrity.com: primary domain.
-
-- MentalIntegrity.org: complementary domain.
+- MentalIntegrity.com
 
 ## Nature and purpose
 
-A pair of descriptive domain names offered for acquisition. The expression mental integrity appears expressly in Article 3 of the Charter of Fundamental Rights of the European Union (reference 1).
+A descriptive domain name offered for acquisition. The expression mental integrity appears expressly in Article 3 of the Charter of Fundamental Rights of the European Union (reference 1).
 
 This brief presents the asset, four primary references and possible documentary uses. It does not describe an existing institutional program and contains no market, revenue or resale-value projections.
 
 ## Scope of the transfer
 
-The proposal concerns the domain names. It includes no rights over an official text, public mandate, third-party trademark, software or database. The precise contractual scope remains to be agreed.
+The proposal concerns the domain name. It includes no rights over an official text, public mandate, third-party trademark, software or database. The precise contractual scope remains to be agreed.
 
 ## Independence
 
-Privately held assets. No affiliation, endorsement or intention to acquire the domains is claimed from the European Union, UNESCO, the Council of Europe or any Chilean authority.
+Privately held asset. No affiliation, endorsement or intention to acquire the domain is claimed from the European Union, UNESCO, the Council of Europe or any Chilean authority.
 
-Revised 22 September 2026. Sources and links: page 4.
+Revised 2 October 2026. Sources and links: page 4.
 
 
 ---
@@ -47,7 +45,7 @@ Dated March 2026, the rapporteurs' report records the workshop of 18 November 20
 
 ## Reading these references
 
-These documents differ in authorship, territorial scope and effect. They establish neither demand to acquire the domains, a need for one address, nor financial value. Placing them together does not create a new obligation.
+These documents differ in authorship, territorial scope and effect. They establish neither demand to acquire the domain, a need for one address, nor financial value. Placing them together does not create a new obligation.
 
 
 ---
@@ -68,10 +66,6 @@ The following are possible editorial choices for a buyer. They describe neither 
 
 The domain could present a research project or editorial initiative: purpose, responsible team, work, sources and contact. Any such project would remain for the buyer to design, fund and administer.
 
-## Using .com and .org
-
-The addresses may be used separately, or one may redirect to the other. A .org extension does not by itself confer nonprofit, public or institutional status. The choice depends on the actual organization of the project.
-
 ## 3. Limitations and responsibilities
 
 - No medical, psychological, therapeutic or emergency service is offered through this transfer.
@@ -87,7 +81,7 @@ The buyer remains responsible for any content, service, data processing or commu
 
 ## 4. Acquisition and contact
 
-Initial contact and agreement on the domains and intended use; confidentiality agreement if needed; written offer; agreement on transfer terms; third-party escrow if agreed; transfer through the relevant registrars.
+Initial contact and agreement on the intended use; confidentiality agreement if needed; written offer; agreement on transfer terms; third-party escrow if agreed; transfer through the relevant registrars.
 
 Price, timing, fees and transfer arrangements are negotiable. The brief provides no estimate of returns, savings, time gains, future demand or resale price.
 
@@ -113,6 +107,6 @@ Adopted 11 November 2025. Official text, Legal Affairs.
 
 Workshop on Human Rights and Neurotechnologies, March 2026. Publication announced 1 April 2026.
 
-The references provide documentary context. They imply no partnership, sponsorship or commitment to acquire the domains.
+The references provide documentary context. They imply no partnership, sponsorship or commitment to acquire the domain.
 
 Descriptive document. Does not constitute legal, regulatory, financial, medical or investment advice.
